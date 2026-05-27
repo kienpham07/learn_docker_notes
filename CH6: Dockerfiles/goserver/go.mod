@@ -1,0 +1,3 @@
+module github.com/kienpham07/dockerfiles_test
+
+go 1.26.3
